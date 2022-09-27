@@ -18,8 +18,8 @@ cd ..
 ```
 ```
 #For Linux users:
-python3 -m venv yolov7seg
-source yolov7seg/bin/activate
+python3 -m venv yolov7segmentation
+source yolov7segmentation/bin/activate
 ```
 ## Usage : 
 - Step 1: Clone the repository
