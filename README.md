@@ -24,7 +24,7 @@ source yolov7segmentation/bin/activate
 ## Usage : 
 - Step 1: Clone the repository
 ```
-git clone 
+git clone https://github.com/vidhyadharan-k/YOLOv7-Instance-Segmentation.git
 ```
 - Step 2: Move into segment directory:
 ```
