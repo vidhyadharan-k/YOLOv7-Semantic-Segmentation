@@ -44,6 +44,11 @@ python predict.py --weights yolov7-seg.pt --source "videopath.mp4" --classes 2
 ```
 (for detecting and segmenting cars)
 
+
+# Example :
+![desk](https://user-images.githubusercontent.com/62550691/192598829-3b5e6c7b-9b4c-4812-8987-c76e50a90328.jpg)
+
+
 # References :
 
 - [Official YOLOv7 Instance segmentation.](https://github.com/WongKinYiu/yolov7/tree/u7)
