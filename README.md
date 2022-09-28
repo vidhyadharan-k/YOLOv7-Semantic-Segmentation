@@ -51,5 +51,5 @@ python predict.py --weights yolov7-seg.pt --source "videopath.mp4" --classes 2
 
 # References :
 
-- [Official YOLOv7 Instance segmentation.](https://github.com/WongKinYiu/yolov7/tree/u7)
+- [Official YOLOv7 semantic segmentation.](https://github.com/WongKinYiu/yolov7/tree/u7)
 - [YOLOv7 Segmentation + Tracking](https://github.com/RizwanMunawar/yolov7-segmentation)
