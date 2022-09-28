@@ -1,6 +1,6 @@
-# YOLOv7 Instance Segmentation.
+# YOLOv7 Semantic Segmentation.
 
-Implementation of "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors" Instance Segmentation.
+Implementation of "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors" Semantic Segmentation.
 
 - This implimentation is based on [yolov5](https://github.com/ultralytics/yolov5).
 - Download Weights from [yolov7-seg.pt](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-seg.pt)
@@ -34,7 +34,7 @@ cd segment
 ```
 pip install -r requirements.txt 
 ```
-- Step 4: Use predict.py to obtain instance segmentation output on the inference. Enter the path of your video in the place of videopath.mp4
+- Step 4: Use predict.py to obtain Semantic segmentation output on the inference. Enter the path of your video in the place of videopath.mp4
 ```
 python predict.py --weights yolov7-seg.pt --source "videopath.mp4"
 ```
